@@ -82,7 +82,7 @@
 // handleobject(user) //otherwise dirext object pass kravi skay
 //  handleobject({
 //     username:"dhameliya",
-//     price:300
+//     price:300    
 //  }) 
 
 
